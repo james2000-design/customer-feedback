@@ -1,11 +1,6 @@
 {
   "feedback": [
     {
-      "id": 2,
-      "rating": 8,
-      "text": "This is feedback item 2 coming from the backend"
-    },
-    {
       "text": "Updated all packages to latest",
       "rating": 6,
       "id": 4
@@ -19,6 +14,11 @@
       "text": "there is the new comment",
       "rating": 7,
       "id": 6
+    },
+    {
+      "text": "it was ok for me",
+      "rating": 6,
+      "id": 7
     }
   ]
 }
